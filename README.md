@@ -2,10 +2,10 @@
 
 ## Project Diagram
 
-Arduino (4,5) --> SIM900A (RX,TX)
-Arduino (8) --> RELAY1
-Arduino (9) --> RELAY2
-Arduino (10) --> RELAY3
+* Arduino (4,5) --> SIM900A (RX,TX)
+* Arduino (8) --> RELAY1
+* Arduino (9) --> RELAY2
+* Arduino (10) --> RELAY3
 
 ## Files
 
