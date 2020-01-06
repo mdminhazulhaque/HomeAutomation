@@ -23,4 +23,4 @@
 * `000` To turn off all pins
 * `get` to get the state of all pins via SMS
 
-Related Post: [Receive SMS from SIM900A Kit using Arduino](http://bits.minhazulhaque.com/arduino/receive-sms-from-sim900a-kit-using-arduino.html) 
+Related Post: [Receive SMS from SIM900A Kit using Arduino](https://bits.mdminhazulhaque.io/arduino/receive-sms-from-sim900a-kit-using-arduino.html) 
