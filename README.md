@@ -1,6 +1,6 @@
-# A simple home automation project using SIM900A GSM Module
+# SMS based home automation project using SIM900A GSM Module
 
-## Project Diagram
+## Pin Diagram
 
 * Arduino (4,5) --> SIM900A (RX,TX)
 * Arduino (8) --> RELAY1
@@ -21,6 +21,6 @@
 * `X01` To ignore 1st pin, turn off 2nd pin and turn on 3rd pin
 * `111` To turn on all pins
 * `000` To turn off all pins
-* `get` to get the state of all pins via SMS
+* `get` to get the state of all pins status via SMS
 
-Related Post: [Receive SMS from SIM900A Kit using Arduino](https://bits.mdminhazulhaque.io/arduino/receive-sms-from-sim900a-kit-using-arduino.html) 
+Related Post: [Receive SMS from SIM900A Kit using Arduino](https://blog.mdminhazulhaque.io/receive-sms-from-sim900a-kit-using-arduino)
